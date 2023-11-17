@@ -8,7 +8,8 @@ This repository not only offers a comprehensive analysis but also provides capti
 making it an invaluable resource for anyone delving into economic data exploration.
 
 
-![](https://i.gifer.com/75ez.gif)
+![image](https://github.com/NicholasCatani/Python-programming/assets/101758786/72e40cb3-928f-49af-a5fa-e3d241b1b266)
+
 
 
 
